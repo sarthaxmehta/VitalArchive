@@ -1,6 +1,8 @@
 # Vital-Archive: AI-Powered Health Report Analyzer 
 
-This is a multi-page Streamlit application designed to help users track, analyze, and visualize their health data. The app's core feature is its ability to ingest PDF medical reports, use AI (Google Gemini) to extract structured data, and employ a Sentence Transformer model to normalize the data against a canonical database. This application uses a local model for normalizing paramteres which can be accessed from this link: https://drive.google.com/drive/folders/1Kp36bKDNuNUMZ1fn8YKku9fDrlePFXSX?usp=drive_link Please download the model and place it in the same directory as the other files to run the application.
+This is a multi-page Streamlit application designed to help users track, analyze, and visualize their health data. The app's core feature is its ability to ingest PDF medical reports, use AI (Google Gemini) to extract structured data, and employ a Sentence Transformer model to normalize the data against a canonical database. This application uses a local model for normalizing paramteres which can be accessed from this link: 
+https://drive.google.com/drive/folders/1Kp36bKDNuNUMZ1fn8YKku9fDrlePFXSX?usp=drive_link 
+Please download the model and place it in the same directory as the other files to run the application.
 
 ## Key Features
 
